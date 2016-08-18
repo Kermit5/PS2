@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Aug 12 23:36:52 2016
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : PS2
+Top-level Entity Name : DATA_SCAN
+Family : Cyclone II
+Total logic elements : 43
+    Total combinational functions : 33
+    Dedicated logic registers : 32
+Total registers : 32
+Total pins : 21
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
